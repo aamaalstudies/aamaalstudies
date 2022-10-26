@@ -7,7 +7,7 @@
 I love learning about Data Science, Bioinformatics, Genomics, Cancer Biology, Immunotherapy, and Translational Research 🧬
 
 - 🌱 I’m currently studying Statistics, Medical Terminology, Data Analysis, Calculus I, and Python
-- 🔭 I’m currently working on a Studygram, a Discord "Study With Me" server, and a YouTube Studygram channel
+- 🔭 I’m currently working on a Studygram and a "Study With Me" Discord server
 - 👯 I’m looking to collaborate on beginner Python, Text Mining, and Data Visualization projects
 - 🤔 I’m looking for help with improving my skills in Python, Text Mining, and Data Visualization 
 - 💬 Ask me about <em>curiosity</em>, <em>ambition</em>, <em>mindset reframing</em>, <em>energy management</em>, and <em>maintaining boundaries</em> while pursuing higher education as a nontraditional student
