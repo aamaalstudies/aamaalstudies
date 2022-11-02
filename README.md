@@ -6,7 +6,7 @@
 
 I love learning about <em>Data Science</em>, <em>Bioinformatics</em>, <em>Genomics</em>, <em>Cancer Biology</em>, <em>Immuno-Oncology/Precision Oncology</em>, and <em>Translational Research (Text Mining)</em> 🧬
 
-- 🌱 I’m currently studying <em>Statistics</em>, <em>Medical Terminology</em>, <em>Data Analysis</em>, <em>Calculus I</em>, and <em>Python</em>
+- 🌱 I’m currently studying <em>Business Analytics</em>, <em>Medical Terminology</em>, <em>Data Analysis</em>, and <em>Python</em>
 - 🔭 I’m currently working on a <em>Studygram</em> and a <em>"Study With Me" Discord server</em>
 - 👯 I’m looking to collaborate on beginner <em>Python</em>, <em>Text Mining</em>, and <em>Data Visualization</em> projects
 - 🤔 I’m looking for help with improving my skills in <em>Python</em>, <em>Text Mining</em>, and <em>Data Visualization</em> 
