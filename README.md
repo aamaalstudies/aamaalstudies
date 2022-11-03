@@ -4,7 +4,7 @@
 **aamaalstudies/aamaalstudies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I love learning about <em>Data Science</em>, <em>Bioinformatics</em>, <em>Genomics</em>, <em>Cancer Biology</em>, <em>Immuno-Oncology</em>, Precision Medicine</em>, and <em>Translational Research (Text Mining)</em> 🧬
+I love learning about <em>Data Science</em>, <em>Bioinformatics</em>, <em>Genomics</em>, <em>Cancer Biology</em>, <em>Immuno-Oncology</em>, <em>Precision Medicine</em>, and <em>Translational Research (Text Mining)</em> 🧬
 
 - 🌱 I’m currently studying <em>Business Analytics</em>, <em>Medical Terminology</em>, <em>Data Analysis</em>, and <em>Python</em>
 - 🔭 I’m currently working on a <em>Studygram</em> and a <em>"Study With Me" Discord server</em>
